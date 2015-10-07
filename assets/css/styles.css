@@ -1,0 +1,27 @@
+ body {
+      background-color: #E9F0F5;
+    }
+    /*body > .grid {
+      height: 100%;
+      width:100%;
+
+    }*/
+	
+
+#board{
+		margin-top:4%;
+		margin-left:22%;
+		margin-right:2%;
+	}
+
+  
+#sidebar{
+  padding-top:5%;
+  padding-left:5%;
+  padding-right: 5%;
+}
+
+#topmenu{
+  height:10%;
+}
+
